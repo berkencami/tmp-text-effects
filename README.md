@@ -182,7 +182,6 @@ This repository is the Unity project the package is developed in.
 |---|---|
 | `Packages/com.berkencami.tmp-text-effects` | **The package** (Runtime, Editor, Shaders, Presets, Fonts, Tests, `Samples~`). |
 | `Assets/Dev/Showcase` | Source of the Showcase sample (scenes, styles, sample scripts). |
-| `Assets/Dev/Editor` | Dev tooling, not shipped: preset/font/scene builders, sample export, README capture. Menu: **Tools → TMP Text Effects → Dev**. |
 | `docs/` | README images. |
 
 Tests: open the project, then **Window → General → Test Runner → EditMode**. To run them from another project, add
@@ -191,6 +190,3 @@ the package to `"testables"` in its `Packages/manifest.json`.
 ## License
 
 [MIT](LICENSE) © Berk Encami
-
-The bundled Liberation Sans font asset is licensed under the SIL Open Font License 1.1 (see the package's
-`Third Party Notices.md`).
