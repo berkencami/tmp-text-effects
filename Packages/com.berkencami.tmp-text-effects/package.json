@@ -1,0 +1,35 @@
+{
+  "name": "com.berkencami.tmp-text-effects",
+  "version": "0.1.0",
+  "displayName": "TMP Text Effects",
+  "description": "Multi-outline, 2.5D extrude, shadows, glossy faces, curved text and per-character animation for TextMeshPro, on a single text object in one draw call.",
+  "unity": "6000.0",
+  "documentationUrl": "https://github.com/berkencami/tmp-text-effects#readme",
+  "changelogUrl": "https://github.com/berkencami/tmp-text-effects/blob/main/Packages/com.berkencami.tmp-text-effects/CHANGELOG.md",
+  "licensesUrl": "https://github.com/berkencami/tmp-text-effects/blob/main/Packages/com.berkencami.tmp-text-effects/LICENSE.md",
+  "keywords": [
+    "textmeshpro",
+    "tmp",
+    "text",
+    "outline",
+    "extrude",
+    "shadow",
+    "typewriter",
+    "text animation",
+    "ui"
+  ],
+  "author": {
+    "name": "Berk Encami",
+    "url": "https://github.com/berkencami"
+  },
+  "dependencies": {
+    "com.unity.ugui": "2.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "Showcase",
+      "description": "The showcase and demo scenes from the README: layer build-up, presets, animations, inline tags, button states and world-space text.",
+      "path": "Samples~/Showcase"
+    }
+  ]
+}

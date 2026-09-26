@@ -1,0 +1,277 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &-4566518262968226522
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LiberationSans SDF Wide (Button Highlighted)
+  m_Shader: {fileID: 4800000, guid: e296dca8af372f949ae84b107c5b734e, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _FaceTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _ColorMask: 15
+    - _CullMode: 0
+    - _FaceDilate: 0
+    - _GradientScale: 15
+    - _LayerCount: 5
+    - _MaskSoftnessX: 0
+    - _MaskSoftnessY: 0
+    - _OutlineSoftness: 0
+    - _OutlineWidth: 0
+    - _PerspectiveFilter: 0.875
+    - _ScaleRatioA: 0.93333334
+    - _ScaleRatioB: 1
+    - _ScaleRatioC: 1
+    - _ScaleX: 1
+    - _ScaleY: 1
+    - _ShaderFlags: 0
+    - _Sharpness: 0
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _TextureHeight: 1024
+    - _TextureWidth: 1024
+    - _VertexOffsetX: 0
+    - _VertexOffsetY: 0
+    - _WeightBold: 0.75
+    - _WeightNormal: 0
+    m_Colors:
+    - _ClipRect: {r: -32767, g: -32767, b: 32767, a: 32767}
+    - _FaceColor: {r: 1, g: 1, b: 1, a: 1}
+    - _GlossColor: {r: 1, g: 1, b: 1, a: 0.75}
+    - _GlossParams: {r: 0.58, g: 0.04, b: 0.3, a: 0.2}
+    - _GradientDir: {r: 0, g: 1, b: 0, a: 0}
+    - _InnerHighlightColor: {r: 1, g: 1, b: 1, a: 0}
+    - _InnerParams: {r: 0.3, g: 0, b: 0, a: 0}
+    - _InnerShadowColor: {r: 0, g: 0, b: 0, a: 0}
+    - _L0A: {r: 0.1, g: 0, b: 0.2, a: 0.45}
+    - _L0B: {r: 0.1, g: 0, b: 0.2, a: 0.45}
+    - _L0P: {r: 0, g: 0.55, b: 0.45, a: 0}
+    - _L0V: {r: 0, g: 0, b: 0, a: 1}
+    - _L1A: {r: 0.48235294, g: 0.18431373, b: 0.74509805, a: 1}
+    - _L1B: {r: 0.23137255, g: 0.05882353, b: 0.41960785, a: 1}
+    - _L1P: {r: 2, g: 0.55, b: 0, a: 16}
+    - _L1V: {r: 0, g: 0, b: 0, a: 1}
+    - _L2A: {r: 0.23137255, g: 0.05882353, b: 0.41960785, a: 1}
+    - _L2B: {r: 0.23137255, g: 0.05882353, b: 0.41960785, a: 1}
+    - _L2P: {r: 0, g: 0.55, b: 0, a: 0}
+    - _L2V: {r: 0, g: 0, b: 0, a: 1}
+    - _L3A: {r: 1, g: 1, b: 1, a: 1}
+    - _L3B: {r: 1, g: 1, b: 1, a: 1}
+    - _L3P: {r: 0, g: 0.28, b: 0, a: 0}
+    - _L3V: {r: 0, g: 0, b: 0, a: 1}
+    - _L4A: {r: 1, g: 0.9843137, b: 0.8156863, a: 1}
+    - _L4B: {r: 1, g: 0.7607843, b: 0.22745098, a: 1}
+    - _L4P: {r: 1, g: 0, b: 0, a: 0}
+    - _L4V: {r: 1, g: 0, b: 0, a: 1}
+    - _L5A: {r: 0, g: 0, b: 0, a: 0}
+    - _L5B: {r: 0, g: 0, b: 0, a: 0}
+    - _L5P: {r: 0, g: 0, b: 0, a: 0}
+    - _L5V: {r: 0, g: 0, b: 0, a: 0}
+    - _L6A: {r: 0, g: 0, b: 0, a: 0}
+    - _L6B: {r: 0, g: 0, b: 0, a: 0}
+    - _L6P: {r: 0, g: 0, b: 0, a: 0}
+    - _L6V: {r: 0, g: 0, b: 0, a: 0}
+    - _L7A: {r: 0, g: 0, b: 0, a: 0}
+    - _L7B: {r: 0, g: 0, b: 0, a: 0}
+    - _L7P: {r: 0, g: 0, b: 0, a: 0}
+    - _L7V: {r: 0, g: 0, b: 0, a: 0}
+    - _ShineColor: {r: 1, g: 1, b: 1, a: 0.85}
+    - _ShineParams: {r: 0.90630776, g: 0.42261827, b: 0.18, a: 0.06}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09c6007f8ec736448b6bed096ae98cf0, type: 3}
+  m_Name: Button Highlighted
+  m_EditorClassIdentifier: TMPTextEffects.Runtime::TMPTextEffects.LayeredTextStyle
+  Layers:
+  - Name: Shadow
+    Enabled: 1
+    Type: 2
+    Color: {r: 0.1, g: 0, b: 0.2, a: 0.45}
+    UseGradient: 0
+    Color2: {r: 1, g: 1, b: 1, a: 1}
+    Dilate: 0.55
+    Softness: 0.45
+    Offset: {x: 0.025999999, y: -0.182}
+    ExtrudeAngle: -90
+    ExtrudeDepth: 0.08
+    ExtrudeSteps: 12
+    TintWithVertexColor: 1
+    Texture: {fileID: 0}
+    TextureTiling: {x: 1, y: 1}
+    TextureOffset: {x: 0, y: 0}
+    TextureBlend: 1
+    GlossColor: {r: 1, g: 1, b: 1, a: 0}
+    GlossPosition: 0.55
+    GlossSoftness: 0.04
+    GlossCurve: 0.25
+    GlossInset: 0.2
+    InnerShadowColor: {r: 0, g: 0, b: 0, a: 0}
+    InnerHighlightColor: {r: 1, g: 1, b: 1, a: 0}
+    InnerOffset: {x: 0.015, y: -0.03}
+    InnerSoftness: 0.3
+    ShineColor: {r: 1, g: 1, b: 1, a: 0.85}
+    ShineWidth: 0.18
+    ShineSoftness: 0.06
+    ShineAngle: 25
+  - Name: Extrude
+    Enabled: 1
+    Type: 3
+    Color: {r: 0.48235294, g: 0.18431373, b: 0.74509805, a: 1}
+    UseGradient: 1
+    Color2: {r: 0.23137255, g: 0.05882353, b: 0.41960785, a: 1}
+    Dilate: 0.55
+    Softness: 0
+    Offset: {x: 0, y: 0}
+    ExtrudeAngle: -90
+    ExtrudeDepth: 0.19
+    ExtrudeSteps: 16
+    TintWithVertexColor: 1
+    Texture: {fileID: 0}
+    TextureTiling: {x: 1, y: 1}
+    TextureOffset: {x: 0, y: 0}
+    TextureBlend: 1
+    GlossColor: {r: 1, g: 1, b: 1, a: 0}
+    GlossPosition: 0.55
+    GlossSoftness: 0.04
+    GlossCurve: 0.25
+    GlossInset: 0.2
+    InnerShadowColor: {r: 0, g: 0, b: 0, a: 0}
+    InnerHighlightColor: {r: 1, g: 1, b: 1, a: 0}
+    InnerOffset: {x: 0.015, y: -0.03}
+    InnerSoftness: 0.3
+    ShineColor: {r: 1, g: 1, b: 1, a: 0.85}
+    ShineWidth: 0.18
+    ShineSoftness: 0.06
+    ShineAngle: 25
+  - Name: Outer Outline
+    Enabled: 1
+    Type: 1
+    Color: {r: 0.23137255, g: 0.05882353, b: 0.41960785, a: 1}
+    UseGradient: 0
+    Color2: {r: 1, g: 1, b: 1, a: 1}
+    Dilate: 0.55
+    Softness: 0
+    Offset: {x: 0, y: 0}
+    ExtrudeAngle: -90
+    ExtrudeDepth: 0.08
+    ExtrudeSteps: 12
+    TintWithVertexColor: 1
+    Texture: {fileID: 0}
+    TextureTiling: {x: 1, y: 1}
+    TextureOffset: {x: 0, y: 0}
+    TextureBlend: 1
+    GlossColor: {r: 1, g: 1, b: 1, a: 0}
+    GlossPosition: 0.55
+    GlossSoftness: 0.04
+    GlossCurve: 0.25
+    GlossInset: 0.2
+    InnerShadowColor: {r: 0, g: 0, b: 0, a: 0}
+    InnerHighlightColor: {r: 1, g: 1, b: 1, a: 0}
+    InnerOffset: {x: 0.015, y: -0.03}
+    InnerSoftness: 0.3
+    ShineColor: {r: 1, g: 1, b: 1, a: 0.85}
+    ShineWidth: 0.18
+    ShineSoftness: 0.06
+    ShineAngle: 25
+  - Name: Inner Outline
+    Enabled: 1
+    Type: 1
+    Color: {r: 1, g: 1, b: 1, a: 1}
+    UseGradient: 0
+    Color2: {r: 1, g: 1, b: 1, a: 1}
+    Dilate: 0.28
+    Softness: 0
+    Offset: {x: 0, y: 0}
+    ExtrudeAngle: -90
+    ExtrudeDepth: 0.08
+    ExtrudeSteps: 12
+    TintWithVertexColor: 1
+    Texture: {fileID: 0}
+    TextureTiling: {x: 1, y: 1}
+    TextureOffset: {x: 0, y: 0}
+    TextureBlend: 1
+    GlossColor: {r: 1, g: 1, b: 1, a: 0}
+    GlossPosition: 0.55
+    GlossSoftness: 0.04
+    GlossCurve: 0.25
+    GlossInset: 0.2
+    InnerShadowColor: {r: 0, g: 0, b: 0, a: 0}
+    InnerHighlightColor: {r: 1, g: 1, b: 1, a: 0}
+    InnerOffset: {x: 0.015, y: -0.03}
+    InnerSoftness: 0.3
+    ShineColor: {r: 1, g: 1, b: 1, a: 0.85}
+    ShineWidth: 0.18
+    ShineSoftness: 0.06
+    ShineAngle: 25
+  - Name: Face
+    Enabled: 1
+    Type: 0
+    Color: {r: 1, g: 0.9843137, b: 0.8156863, a: 1}
+    UseGradient: 1
+    Color2: {r: 1, g: 0.7607843, b: 0.22745098, a: 1}
+    Dilate: 0
+    Softness: 0
+    Offset: {x: 0, y: 0}
+    ExtrudeAngle: -90
+    ExtrudeDepth: 0.08
+    ExtrudeSteps: 12
+    TintWithVertexColor: 1
+    Texture: {fileID: 0}
+    TextureTiling: {x: 1, y: 1}
+    TextureOffset: {x: 0, y: 0}
+    TextureBlend: 1
+    GlossColor: {r: 1, g: 1, b: 1, a: 0.75}
+    GlossPosition: 0.58
+    GlossSoftness: 0.04
+    GlossCurve: 0.3
+    GlossInset: 0.2
+    InnerShadowColor: {r: 0, g: 0, b: 0, a: 0}
+    InnerHighlightColor: {r: 1, g: 1, b: 1, a: 0}
+    InnerOffset: {x: 0.015, y: -0.03}
+    InnerSoftness: 0.3
+    ShineColor: {r: 1, g: 1, b: 1, a: 0.85}
+    ShineWidth: 0.18
+    ShineSoftness: 0.06
+    ShineAngle: 25
+  GradientSpace: 0
+  GradientAngle: 0
+  _Shader: {fileID: 0}
+  _Materials:
+  - Font: {fileID: 0}
+    Material: {fileID: -4566518262968226522}

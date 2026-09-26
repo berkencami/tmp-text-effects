@@ -1,0 +1,17 @@
+{
+    "name": "TMPTextEffects.Samples",
+    "rootNamespace": "TMPTextEffects.Samples",
+    "references": [
+        "TMPTextEffects.Runtime",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
